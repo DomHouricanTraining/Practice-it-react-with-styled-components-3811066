@@ -10,7 +10,7 @@ const Counter = () => {
 
   return (
     <div>
-      <h1>Counter App</h1>
+      <h1>Counter App JSX Stylie</h1>
       <button onClick={handleIncrement}>Increment</button>
       <p>Count: {count}</p>
     </div>
